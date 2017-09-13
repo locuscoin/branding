@@ -1,1 +1,1 @@
-# branding
+![alt text](https://raw.githubusercontent.com/locuscoin/branding/master/app-icon-rounded-v1.0/iTunesArtwork@2x.png)
